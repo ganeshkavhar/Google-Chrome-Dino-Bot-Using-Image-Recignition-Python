@@ -3,6 +3,10 @@
 What would you see in your Chrome browser when there is no internet connection ? Yes, everybody knows that dinosaur game that comes on screen. So, in this article, we are going to build a simple python bot that plays Chrome Dino Game without user interaction. Here we are not using any machine learning or artificial intelligence to counter this problem but we will use simple image/screen processing.
 
 
+![image](https://user-images.githubusercontent.com/20369800/78315965-1c55c900-757c-11ea-8fca-33f06f875770.png)
+
+
+
 We will work with Pyautogui and PIL (Python Imaging Library) for implementation. This project is very basic and consists of only about 50 lines of code but its result will make you surprise.
 
 Some libraries used are:
